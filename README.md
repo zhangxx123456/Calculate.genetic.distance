@@ -1,5 +1,8 @@
 # Calculate.genetic.distance<br>
 This script can calculate the genetic distances of given variants based on their physical positions and KGP genetic map.<br><br>
+&emsp;&emsp;https://github.com/Shuhua-Group/Calculate.genetic.distance <br><br>
+&emsp;&emsp;https://github.com/zhangxx123456/Calculate.genetic.distance <br><br>
+
 
 ### Parameters:<br>
 1. The input file that need calculate genetic distance. Compressed VCF file or compressed TXT file can both be used. The TXT file should have two columns, the first column is the chromosome number, and the second column is the physical location. <br><br>

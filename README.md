@@ -1,5 +1,5 @@
 # Calculate.genetic.distance<br>
-This script can calculate the genetic distances of given variants based on their physical positions and KGP genetic map.<br><br>
+This script can calculate the genetic distances of given variants based on their physical positions and genetic map files.<br><br>
 &emsp;&emsp;https://github.com/Shuhua-Group/Calculate.genetic.distance <br><br>
 &emsp;&emsp;https://github.com/zhangxx123456/Calculate.genetic.distance <br><br>
 

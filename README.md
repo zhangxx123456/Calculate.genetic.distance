@@ -20,5 +20,10 @@ python3 cal.gen.dis.py  \
 ```
 
 ### Citations:<br>
-If you use this script in your project, please cite the following papers: <br><br>
-Hoh BP, Zhang X, Deng L, Yuan K, Yew CW, Saw WY, et al. Shared Signature of Recent Positive Selection on the TSBP1-BTNL2-HLA-DRA Genes in Five Native Populations from North Borneo. Genome Biol Evol 2020;12:2245-2257. https://doi.org/10.1093/gbe/evaa207
+If you use this script in your project, please cite the following papers: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;[Shared Signature of Recent Positive Selection on the TSBP1-BTNL2-HLA-DRA Genes in Five Native Populations from North Borneo](https://doi.org/10.1093/gbe/evaa207) (*Genome Biol Evol*, 2020)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;[Multiple-wave admixture and adaptive evolution of the Pamirian Wakhi people](https://doi.org/10.1093/molbev/msae237) (*Molecular Biology and Evolution*, 2024)<br><br><br>
+
+---
+By: Xiaoxi Zhang, 2024<br>
+Contact: zhangxiaoxi@picb.ac.cn<br>
